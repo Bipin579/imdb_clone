@@ -11,7 +11,7 @@ const Header = () => {
 
         <div className="flex justify-between mx-2 max-w-5xl sm:mx-auto items-center py-6">
           <div className="flex">
-            <MenuItem title="HOME" address={"/"} Icon={AiFillHome} />
+            <MenuItem  title="Home" address={"/"} Icon={AiFillHome} />
             <MenuItem
               title="About"
               address={"/about"}
